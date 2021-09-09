@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Mark Orr's Blog
-description: Computational Psychologist
+name: Boheme's Blog
+description: 
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://mark-orr.github.io
@@ -19,7 +19,7 @@ share:
   email: true
 
 social:
-  github: mark-orr
+  github: Boheme130
   stackoverflow: ''
   linkedin:
   instagram: ''
